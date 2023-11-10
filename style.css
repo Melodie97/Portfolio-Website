@@ -1,0 +1,135 @@
+* {
+  font-family: 'Manrope', sans-serif;
+  margin: 0px;
+  /* padding: 0px; */
+  box-sizing: border-box;
+  /* background-color: rgb(248, 247, 233); */
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* outline: 1px red solid; */
+  position: sticky;
+  top: 0;
+  border-bottom-color: rgb(172, 170, 170);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  background-color: rgb(248, 247, 233);
+}
+ 
+.navbar {
+  width: 70%;
+  padding: 14px; 
+  display: flex;
+  /* outline: 1px red solid; */
+}
+
+.icon-container {
+  /* outline: 1px red solid; */
+  margin-right: px;
+}
+
+.icon {
+  /* border: 1px solid red; */
+  font-size: 20px;
+  /* margin-right: 15px; */
+  font-weight: bold; 
+  color: black;
+}
+
+.navbar-links {
+  display: flex;
+  /* outline: 1px solid red; */
+  /* margin-right: 5px; */
+}
+
+.navbar-links li {
+  list-style: none;
+  /* outline: 1px red solid; */
+  margin-right: 15px;
+  padding-top: 4px;
+  font-size: small;
+}
+
+.offwhite {
+  background-color: rgb(248, 247, 233);
+}
+
+.outer-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* outline: 1px red solid; */
+}
+
+.inner-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  height: 100%;
+  /* outline: 1px red solid; */
+}
+
+.left {
+  /* outline: 1px red solid; */
+  padding: 25px;
+  flex: 0.4;
+  text-align: center;
+}
+
+.right {
+  /* outline: 1px red solid; */
+  padding: 25px;
+  flex: 1.6;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: x-large;
+}
+
+span {
+  font-size: small;
+  color: rgb(197, 192, 192);
+}
+
+.top {
+  /* outline: 1px red solid; */
+  margin-bottom: 50px;
+}
+
+.top h1 {
+  padding: 14px 0;
+}
+
+.bottom {
+  /* outline: 1px red solid; */
+  display: flex;
+}
+
+.bottom-left {
+  margin-right: 70px;
+  /* outline: 1px red solid; */
+}
+
+.yellow {
+  background-color: rgb(235, 234, 194);
+}
+
+img {
+  border-radius: 50%;
+}
+
+hr {
+  border: 1px black solid;
+}
+
+.dialog-box {
+  /* outline: 1px red solid; */
+  background-color: rgb(248, 247, 233);
+  border-radius: 5px;
+  padding: 25px;
+}
