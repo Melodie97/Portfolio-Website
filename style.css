@@ -80,14 +80,14 @@
 }
 
 .left {
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
   padding: 25px;
   flex: 0.4;
   text-align: center;
 }
 
 .right {
-  outline: 1px red solid;
+  /* outline: 1px red solid; */
   padding: 25px;
   flex: 1.6;
 }
@@ -160,7 +160,6 @@ a {
 
 .blue-nav li {
   /* outline: 1px red solid; */
-  /* margin-right: 5px; */
   list-style-type: none;
   color: white;
   padding: 5px 10px;
@@ -184,4 +183,9 @@ a {
   width: 150px;
   height: 150px;
   border-radius: 8px;
+}
+
+/* Footer */
+.footer {
+  background-color: black;
 }
