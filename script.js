@@ -10,47 +10,8 @@
   <div>
     <img src="assets/Data Analytics/alexander-shatov-k1xf2D7jWUs-unsplash.jpg" height="150" width="180" />
   </div>
-  <div><a href="#"><h5>Twitter User(WeRateDogs) Analytics in Python</h5></a>
-  <p> Performed Analysis on twitter user (WeRateDogs) using data gotten from different independent
-     sources(API, URL, and csv file).</p></div>
-</div>
-<div class="grid-item">
   <div>
-    <img src="assets/Data Analytics/covid-19.jpg" alt="" height="150" width="180">
-  </div>
-  <div><a href="#"><h5>Covid19 SQL Analytics</h5></a>
-  <p>An Exploratory Data Analysis on a covid19 dataset using SQL</p></div>
-</div>
-<div class="grid-item">
-  <div>
-    <img src="assets/Data Analytics/jay-wennington-N_Y88TWmGwA-unsplash.jpg" alt="" height="150" width="180">
-  </div>
-  <div><a href="#"><h5>Restaurant Analytics in PowerBI</h5></a>
-  <p>Summary Dashboard in PowerBI showing insights into a restaurant's orders and sales in a quarter.</div>
-</div>
-<div class="grid-item">
-  <div>
-    <img src="assets/Data Analytics/Revenue Dashboard.png" alt="" height="150" width="180">
-  </div>
-  <div><a href="#"><h5>Revenue and Margin Analytics in Tableau</h5></a>
-  <p>Summary Dashboard in Tableau showing insights into a store's sales, highlighting the store's revenue and
-    gross margin.</p></div>
-</div>
-<div class="grid-item">
-  <div>
-    <img src="assets/Data Analytics/william-hook-9e9PD9blAto-unsplash.jpg" alt="" height="150" width="180">
-  </div>
-  <div><a href="#"><h5>Customer Analytics on Mobile App Feature Usage in SQL</h5></a>
-  <p>Customers were grouped into frequency buckets based on how often they used a specific feature in a mobile app.
-    The Analytics aims to aid Targeted Ad Campaigns. </p></div>
-</div>`;
-  
-  const allHTML = `<div class="grid-item">
-  <div>
-    <img src="assets/Data Analytics/alexander-shatov-k1xf2D7jWUs-unsplash.jpg" height="150" width="180" />
-  </div>
-  <div>
-    <a href="#"><h5>Twitter User(WeRateDogs) Analytics in Python</h5></a>
+    <a href="https://github.com/Melodie97/Data-Analytics-Projects/tree/main/WeRateDogs%20Project"><h5>Twitter User(WeRateDogs) Analytics in Python</h5></a>
     <p> Performed Analysis on twitter user (WeRateDogs) using data gotten from different independent
        sources(API, URL, and csv file).</p>
   </div>
@@ -60,7 +21,7 @@
     <img src="assets/Data Analytics/covid-19.jpg" alt="" height="150" width="180">
   </div>
   <div>
-    <a href="#"><h5>Covid19 SQL Analytics</h5></a>
+    <a href="https://github.com/Melodie97/SQL-Projects/tree/main/Covid19-Analytics"><h5>Covid19 SQL Analytics</h5></a>
     <p>An Exploratory Data Analysis on a covid19 dataset using SQL</p>
   </div>
 </div>
@@ -69,7 +30,7 @@
     <img src="assets/Data Analytics/jay-wennington-N_Y88TWmGwA-unsplash.jpg" alt="" height="150" width="180">
   </div>
   <div>
-    <a href="#"><h5>Restaurant Analytics in PowerBI</h5></a>
+    <a href="https://app.powerbi.com/groups/65220fb0-93d6-4ef4-a918-5fa8ef8bd68f/reports/404877bf-2899-43eb-b50f-37f0dbe9035f/ReportSection0fd001d5e1ed0cac943d?experience=power-bi"><h5>Restaurant Analytics in PowerBI</h5></a>
     <p>Summary Dashboard in PowerBI showing insights into a restaurant's orders and sales in a quarter.</p>
   </div>
 </div>
@@ -78,7 +39,7 @@
     <img src="assets/Data Analytics/Revenue Dashboard.png" alt="" height="150" width="180">
   </div>
   <div>
-    <a href="#"><h5>Revenue and Margin Analytics in Tableau</h5></a>
+    <a href="https://public.tableau.com/app/profile/melodie3267/viz/FinancialSheet/Dashboard1"><h5>Revenue and Margin Analytics in Tableau</h5></a>
     <p>Summary Dashboard in Tableau showing insights into a store's sales, highlighting the store's revenue and
       gross margin.</p>
   </div>
@@ -88,7 +49,56 @@
     <img src="assets/Data Analytics/william-hook-9e9PD9blAto-unsplash.jpg" alt="" height="150" width="180">
   </div>
   <div>
-    <a href="#"><h5>Customer Analytics on Mobile App Feature Usage in SQL</h5></a>
+    <a href="https://github.com/Melodie97/SQL-Projects/tree/main/Mobile%20Banking%20Analytics"><h5>Customer Analytics on Mobile App Feature Usage in SQL</h5></a>
+    <p>Customers were grouped into frequency buckets based on how often they used a specific feature in a mobile app.
+      The Analytics aims to aid Targeted Ad Campaigns. </p>
+  </div>
+</div>`;
+  
+  const allHTML = `<div class="grid-item">
+  <div>
+    <img src="assets/Data Analytics/alexander-shatov-k1xf2D7jWUs-unsplash.jpg" height="150" width="180" />
+  </div>
+  <div>
+    <a href="https://github.com/Melodie97/Data-Analytics-Projects/tree/main/WeRateDogs%20Project"><h5>Twitter User(WeRateDogs) Analytics in Python</h5></a>
+    <p> Performed Analysis on twitter user (WeRateDogs) using data gotten from different independent
+       sources(API, URL, and csv file).</p>
+  </div>
+</div>
+<div class="grid-item">
+  <div>
+    <img src="assets/Data Analytics/covid-19.jpg" alt="" height="150" width="180">
+  </div>
+  <div>
+    <a href="https://github.com/Melodie97/SQL-Projects/tree/main/Covid19-Analytics"><h5>Covid19 SQL Analytics</h5></a>
+    <p>An Exploratory Data Analysis on a covid19 dataset using SQL</p>
+  </div>
+</div>
+<div class="grid-item">
+  <div>
+    <img src="assets/Data Analytics/jay-wennington-N_Y88TWmGwA-unsplash.jpg" alt="" height="150" width="180">
+  </div>
+  <div>
+    <a href="https://app.powerbi.com/groups/65220fb0-93d6-4ef4-a918-5fa8ef8bd68f/reports/404877bf-2899-43eb-b50f-37f0dbe9035f/ReportSection0fd001d5e1ed0cac943d?experience=power-bi"><h5>Restaurant Analytics in PowerBI</h5></a>
+    <p>Summary Dashboard in PowerBI showing insights into a restaurant's orders and sales in a quarter.</p>
+  </div>
+</div>
+<div class="grid-item">
+  <div>
+    <img src="assets/Data Analytics/Revenue Dashboard.png" alt="" height="150" width="180">
+  </div>
+  <div>
+    <a href="https://public.tableau.com/app/profile/melodie3267/viz/FinancialSheet/Dashboard1"><h5>Revenue and Margin Analytics in Tableau</h5></a>
+    <p>Summary Dashboard in Tableau showing insights into a store's sales, highlighting the store's revenue and
+      gross margin.</p>
+  </div>
+</div>
+<div class="grid-item">
+  <div>
+    <img src="assets/Data Analytics/william-hook-9e9PD9blAto-unsplash.jpg" alt="" height="150" width="180">
+  </div>
+  <div>
+    <a href="https://github.com/Melodie97/SQL-Projects/tree/main/Mobile%20Banking%20Analytics"><h5>Customer Analytics on Mobile App Feature Usage in SQL</h5></a>
     <p>Customers were grouped into frequency buckets based on how often they used a specific feature in a mobile app.
       The Analytics aims to aid Targeted Ad Campaigns. </p>
   </div>
@@ -96,7 +106,7 @@
 <div class="grid-item">
   <div><img src="assets/Data Engineering/ETL Project.png" alt="" height="150" width="180"></div>
   <div>
-    <a href="#"><h5>ETL Project in Python</h5></a>
+    <a href="https://github.com/Melodie97/Data-Engineering-Projects/tree/main/Accounts_ETL_Project"><h5>ETL Project in Python</h5></a>
     <p>Extracted data from a csv file, Transformed the data (cleaning, removal of duplicates and some missing values), and
       Loaded it into a Postgres Database.
     </p>
@@ -105,14 +115,14 @@
 <div class="grid-item">
   <div><img src="assets/Data Science/BOE.jpg" alt="" height="150" width="180"></div>
   <div>
-    <a href="#"><h5>Bank Loan Classification in Python</h5></a>
+    <a href="https://github.com/Melodie97/Machine-Learning-Projects/tree/main/Bank%20Loan%20Classification%20Project"><h5>Bank Loan Classification in Python</h5></a>
     <p> Built several ML models to determine the one that best classifies bad loans based on the available features.</p>
   </div>
 </div>
 <div class="grid-item">
   <div><img src="assets/Data Science/mojahid-mottakin-f2MlXoFMy54-unsplash.jpg" height="150" width="180"></div>
   <div>
-    <a href="#"><h5>Custom Chatbot for Nasa Webpage</h5></a>
+    <a href="https://github.com/Melodie97/Natural-Language-Processing-NLP-Projects/tree/main/Nasa-Project"><h5>Custom Chatbot for Nasa Webpage</h5></a>
     <p> Built a custom Chatbot using an openAI LLM. The process involved scraping the webpage and fine tuning the 
       model with the data.
     </p>
@@ -121,21 +131,25 @@
 
   const dataScienceHTML = `<div class="grid-item">
   <div><img src="assets/Data Science/BOE.jpg" alt="" height="150" width="180"></div>
-  <div><a href="#"><h5>Bank Loan Classification in Python</h5></a>
-  <p> Built several ML models to determine the one that best classifies bad loans based on the available features.</p></div>
+  <div>
+    <a href="https://github.com/Melodie97/Machine-Learning-Projects/tree/main/Bank%20Loan%20Classification%20Project"><h5>Bank Loan Classification in Python</h5></a>
+    <p> Built several ML models to determine the one that best classifies bad loans based on the available features.</p>
+  </div>
 </div>
 <div class="grid-item">
   <div><img src="assets/Data Science/mojahid-mottakin-f2MlXoFMy54-unsplash.jpg" height="150" width="180"></div>
-  <div><a href="#"><h5>Custom Chatbot for Nasa Webpage</h5></a>
-  <p> Built a custom Chatbot using an openAI LLM. The process involved scraping the webpage and fine tuning the 
-    model with the data.
-  </p></div>
+  <div>
+    <a href="https://github.com/Melodie97/Natural-Language-Processing-NLP-Projects/tree/main/Nasa-Project"><h5>Custom Chatbot for Nasa Webpage</h5></a>
+    <p> Built a custom Chatbot using an openAI LLM. The process involved scraping the webpage and fine tuning the 
+      model with the data.
+    </p>
+  </div>
 </div>`;
 
 const dataEngineeringHTML = `<div class="grid-item">
 <div><img src="assets/Data Engineering/ETL Project.png" alt="" height="150" width="180"></div>
 <div>
-  <a href="#"><h5>ETL Project in Python</h5></a>
+  <a href="https://github.com/Melodie97/Data-Engineering-Projects/tree/main/Accounts_ETL_Project"><h5>ETL Project in Python</h5></a>
   <p>Extracted data from a csv file, Transformed the data (cleaning, removal of duplicates and some missing values), and
     Loaded it into a Postgres Database.
   </p>
