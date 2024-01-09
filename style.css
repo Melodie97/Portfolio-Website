@@ -185,7 +185,8 @@ a:hover {
 
 .grid-container > div {
   background: white;
-  height: 430px;
+  /* height: 430px; */
+  height: auto;
   border-radius: 8px;
   border: 1px solid rgba(138, 137, 106, 0.678);
 }
@@ -201,6 +202,10 @@ a:hover {
 
 .grid-container a:hover {
   color: blue;
+}
+
+.grid-container img {
+  width: 100%;
 }
 
 /* Footer */
@@ -234,4 +239,39 @@ a:hover {
 
 .footer-icons a:hover {
   color: blue;
+}
+
+/* For smaller device screens */
+@media only screen and (max-width: 768px) {
+  .inner-wrapper {
+    display: block;
+  }
+
+  .bottom {
+    display: block;
+  }
+
+  #first-outer-wrapper {
+    height: auto;
+  }
+
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-container div {
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  #first-outer-wrapper {
+    height: auto;
+  }
+}
+
+@media only screen and (min-width: 992px){
+  #first-outer-wrapper {
+    height: 100vh;
+  }
 }
